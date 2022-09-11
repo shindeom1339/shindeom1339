@@ -29,3 +29,4 @@ Some times I do graphic desiging using tools such as: <br>
 
 ### Connect with me on
   <a href="https://www.linkedin.com/in/om-shinde-0aabb1207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shinde.om1339@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
