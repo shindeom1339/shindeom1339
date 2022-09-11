@@ -21,11 +21,11 @@
 </p>
 
 ### Hobbies
-- Some times I do graphic desiging using tools such as: <br>
+Some times I do graphic desiging using tools such as: <br>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-### Hobbies
-- Connect with on: <br>
+
+### Connect with on
   <a href="https://www.linkedin.com/in/om-shinde-0aabb1207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
