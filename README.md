@@ -3,8 +3,7 @@
 </h3>
 
 ### About me
-- 3rd Year Student at Pune Institute of Computer Technology, Pune.
-- Currently learning Backend Development.
+- Final Year Student at Pune Institute of Computer Technology, Pune.
 
 ### Languages and Tools
 <p>
